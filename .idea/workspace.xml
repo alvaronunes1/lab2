@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad667feb-40a7-43be-a77a-b718390ee782" name="Changes" comment="feat: cria a classe conta">
+      <change afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/ContaEspecial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Transferencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/newtonpaiva/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/newtonpaiva/ui/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,7 +38,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
   <component name="RunManager">
